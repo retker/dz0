@@ -1,4 +1,6 @@
 <?php
+include "file2.php";
+
 const TEST_CONSTANTA = 'asd';
 $user_name = "Igor";
 
